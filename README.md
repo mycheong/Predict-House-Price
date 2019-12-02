@@ -1,2 +1,2 @@
 # Predict-House-Price
-This repository contains work on building a ML model for predicting house prices using data from the [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/c/home-data-for-ml-course).
+This repository contains the work on building a ML model for predicting house prices using data from the [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/c/home-data-for-ml-course). The work involved includes pre-processing of the data, handling of missing values, encoding of categorical variables, feature selection, train a Random Forest model, tuning of model hyperparamters and refining feature selection.
